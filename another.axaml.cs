@@ -10,4 +10,9 @@ public partial class another : UserControl
     {
         InitializeComponent();
     }
+
+    private void InitializeComponent()
+    {
+        throw new System.NotImplementedException();
+    }
 }

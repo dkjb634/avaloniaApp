@@ -10,4 +10,9 @@ public partial class uhuj : UserControl
     {
         InitializeComponent();
     }
+
+    private void InitializeComponent()
+    {
+        throw new System.NotImplementedException();
+    }
 }

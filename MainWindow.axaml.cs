@@ -8,4 +8,9 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
     }
+
+    private void InitializeComponent()
+    {
+        throw new System.NotImplementedException();
+    }
 }
